@@ -21,7 +21,7 @@ This Python 3 script logs into server.growatt.com, retrieves the data of your so
  - Then install pip using: `wget https://bootstrap.pypa.io/get-pip.py && sudo python3 get-pip.py`
  - Create symlink to pip using: `ln -s /volume1/@appstore/py3k/usr/local/bin/pip /usr/bin` 
  - By default, the requests module is missing, so install it using pip: `sudo pip install requests`
- - Then call script using `python3 growatt.py` 
+ - Then call the script using `python3 growatt.py` 
  - You can schedule the script using the Task Scheduler in Synology.
  
  ## Acknowledgements:
